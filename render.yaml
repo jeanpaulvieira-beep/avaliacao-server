@@ -1,5 +1,6 @@
 services:
   - type: web
+    name: avaliacao-jpv-2026
     runtime: node
     plan: free
     buildCommand: npm install
